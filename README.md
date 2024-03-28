@@ -35,4 +35,4 @@ Supports connectivity with an Xbox Kinect sensor, allowing players to control th
 * **G (Keyboard) / Sway left (Kinect)** - Left Dodge
 * **L (Keyboard) / Sway right (Kinect)** - Right Dodge
 * **J (Keyboard) / Raise both arms in front of face (Kinect)** - Block
-* **Raise both arms parallel to the side** - Pause Game
+* **Raise both arms parallel to the side (Kinect)** - Pause Game
